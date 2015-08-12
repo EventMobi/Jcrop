@@ -1,0 +1,27 @@
+{
+  "name": "jquery-jcrop-plugin",
+  "version": "0.9.12",
+  "description": "Image cropping plugin for jQuery",
+  "main": "js/jquery.Jcrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EventMobi/Jcrop.git"
+  },
+  "keywords": [
+    "img",
+    "image",
+    "form",
+    "crop",
+    "cropping",
+    "cropper"
+  ],
+  "author": "Tapmodo <khallman@tapmodo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EventMobi/Jcrop/issues"
+  },
+  "homepage": "https://github.com/EventMobi/Jcrop#readme"
+}
